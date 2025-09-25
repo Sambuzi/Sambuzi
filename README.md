@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey there, I'm Sambuzi! 👋
 
-<!--
-**Sambuzi/Sambuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💻 Computer Science & Software Engineering Student at Bologna University
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](sajmir.buzi@studio.unibo.it)
+
+
+---
+
+## 📊 GitHub Stats
+
+![Sambuzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambuzi&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambuzi&layout=compact&theme=github_dark)
+
+---
+
+<!-- Qui puoi aggiungere altre info su di te, progetti o passioni -->
