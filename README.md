@@ -5,7 +5,7 @@
 💻 Computer Science & Software Engineering Student at Bologna University
 
 
-[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sajmir.buzi@studio.unibo.it)
+[![Email](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white "Send me an email")](mailto:sajmir.buzi@studio.unibo.it)
 
 
 
