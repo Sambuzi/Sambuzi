@@ -43,10 +43,20 @@
 
 ## 📊 GitHub Stats
 
-![Sambuzi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sambuzi&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sambuzi&layout=compact&theme=github_dark&hide_border=true)
+<p>
+  <a href="https://github.com/Sambuzi">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sambuzi&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=false">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambuzi&amp;layout=compact&amp;theme=github_dark&amp;hide_border=false">
+  </a>
+</p>
 
-![Profile views](https://komarev.com/ghpvc/?username=Sambuzi&label=Profile%20views&color=0e75b6&style=flat)
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sambuzi&amp;theme=dark&amp;hide_border=false">
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Sambuzi&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat">
+</p>
 
 ---
 ## 🧩 Featured Projects
