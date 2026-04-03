@@ -53,30 +53,16 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sambuzi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambuzi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+</p>
 
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Sambuzi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img height="180em" src="https://streak-stats.demolab.com?user=Sambuzi&theme=tokyonight&hide_border=true"/>
+</p>
 
-  <br/>
-
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=Sambuzi&theme=github-dark&hide_border=true"/>
-
-  <br/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambuzi&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
-
-  <br/>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambuzi&theme=github-dark&hide_border=true"/>
-
-  <br/>
-
-  <!-- Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sambuzi&theme=darkhub&no-frame=true&row=1&column=6"/>
-
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambuzi&theme=tokyo-night&hide_border=true"/>
 </p>
 
 <p align="center">
