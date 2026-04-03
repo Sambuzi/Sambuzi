@@ -62,20 +62,17 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambuzi&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sambuzi&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sambuzi&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sambuzi&theme=tokyonight"/>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sambuzi&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
----
-
-## 🧩 Featured Projects
-
-### 📦 AdriaBOX
-Distributed storage system with replication, fault tolerance, and custom TCP protocols.
-
----
 
 ### 🥾 TrailSafe
 Web application designed to:
