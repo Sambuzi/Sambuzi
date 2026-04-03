@@ -70,7 +70,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sambuzi&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
----
+
+
 ## 🧩 Featured Projects
 
 ### 📦 AdriaBOX
@@ -82,6 +83,12 @@ Distributed storage system with **replication, fault tolerance, and custom TCP p
 ### 🥾 TrailSafe
 Web app to **explore trails and report real-time issues on routes**.  
 `Web App` · `Mapping` · `User Reporting`
+
+---
+
+### 🏋️ WellGym
+Web application to **support training routines and personal wellness tracking**.  
+`Web App` · `Fitness` · `User Experience`
 
 ---
 
