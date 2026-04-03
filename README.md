@@ -70,61 +70,54 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sambuzi&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
+---
+## 🧩 Featured Projects
+
+### 📦 AdriaBOX
+Distributed storage system with **replication, fault tolerance, and custom TCP protocols**.  
+`Python` · `Distributed Systems` · `Docker`
+
+---
 
 ### 🥾 TrailSafe
-Web application designed to:
-- 📍 Explore available trails and routes  
-- ⚠️ Report issues and disruptions in real time  
-- 🌍 Improve accessibility and safety for outdoor paths  
-
-Built as a full-stack project focusing on usability and real-world impact.
+Web app to **explore trails and report real-time issues on routes**.  
+`Web App` · `Mapping` · `User Reporting`
 
 ---
 
 ### 🏙️ City Simulation
-Simulation of a virtual city with autonomous agents and dynamic events to study concurrency.
+Simulation of a city with **autonomous agents and concurrent interactions**.  
+`Concurrency` · `Simulation` · `Java`
 
 ---
 
 ### 🕊️ Boid Simulation
-Concurrent simulation of flocking behavior using:
-- Java Threads
-- Executor Framework
-- Virtual Threads
+Flocking behavior simulation using **multithreading and reactive patterns**.  
+`Java` · `Threads` · `Concurrency`
 
 ---
 
-### 🎬 Cinema Management Database
-Relational database system for:
-- Reservations
-- Rooms
-- Customers  
-Built with **SQL + PHP**
+### 🎬 Cinema DB
+Relational database for **cinema management (rooms, bookings, users)**.  
+`SQL` · `PHP` · `Database Design`
 
 ---
 
-### 💰 Cashflow Application
-Finance management app with:
-- Expense tracking  
-- Interactive charts  
-- Monthly reports  
+### 💰 Cashflow App
+Finance tracker with **expenses, income, and visual reports**.  
+`Full Stack` · `Charts` · `Finance`
 
 ---
 
-### 🃏 ScalaBluff (Card Game)
-Multiplayer implementation of *“Dubito”*:
-- Object-Oriented Design
-- Event-driven logic
+### 🃏 ScalaBluff
+Multiplayer card game with **event-driven architecture in Scala**.  
+`Scala` · `OOP` · `Game Logic`
 
 ---
 
 ### 🎟️ EventGram
-Web platform to:
-- Create events  
-- Browse events  
-- Join communities  
-
-Built with **HTML, CSS, PHP, MySQL**
+Web platform to **create and join events with user interaction**.  
+`PHP` · `MySQL` · `Web Development`
 
 ---
 
