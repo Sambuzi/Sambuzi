@@ -53,17 +53,35 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sambuzi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
+
+  <!-- Main Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Sambuzi&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
+
   <br/>
+
+  <!-- Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=Sambuzi&theme=github-dark&hide_border=true"/>
+
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambuzi&layout=compact&theme=github_dark&hide_border=true"/>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambuzi&layout=compact&theme=github_dark&hide_border=true&langs_count=8"/>
+
+  <br/>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sambuzi&theme=github-dark&hide_border=true"/>
+
+  <br/>
+
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Sambuzi&theme=darkhub&no-frame=true&row=1&column=6"/>
+
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sambuzi&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
-
 ---
 
 ## 🧩 Featured Projects
